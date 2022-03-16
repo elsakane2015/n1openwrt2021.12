@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build N1-OpenWrt
+name: Build N1-OpenWrt-22-03-16
 
 on:
   repository_dispatch:
